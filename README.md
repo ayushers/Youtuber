@@ -12,11 +12,12 @@ https://github.com/ytdl-org/youtube-dl/
 
 2. Create Conda Env
    1. Install packages requirements.txt
+   2. ```pip install youtube-dl```
 
 
 3. Generate CSV
 - Format should be 3 columns No Headers
-- TITLE, ARTIST, YOUTUBE LINK
+- SONGTITLE, ARTIST, YOUTUBE LINK
 
 ```csv
 Star,Bazzi,https://www.youtube.com/watch?v=7gAzkZGuCgE
